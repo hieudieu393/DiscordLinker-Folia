@@ -2,6 +2,7 @@ name: Discord-Linker
 version: ${project.version}
 main: me.lianecx.discordlinker.DiscordLinker
 api-version: 1.12
+folia-supported: true
 authors: [ Lianecx ]
 softdepend:
   - LuckPerms
